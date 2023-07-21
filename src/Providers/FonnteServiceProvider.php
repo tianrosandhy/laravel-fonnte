@@ -5,7 +5,7 @@ namespace TianRosandhy\LaravelFonnte\Providers;
 use Illuminate\Support\ServiceProvider;
 use TianRosandhy\LaravelFonnte\Fonnte;
 
-class LaravelFonnteServiceProvider extends ServiceProvider
+class FonnteServiceProvider extends ServiceProvider
 {
 
     public function boot()
