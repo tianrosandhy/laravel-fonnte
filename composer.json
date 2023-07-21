@@ -2,7 +2,7 @@
     "name": "tianrosandhy/laravel-fonnte",
     "autoload": {
         "psr-4": {
-            "TianRosandhy\\LaravelFonnte": "src/"
+            "TianRosandhy\\LaravelFonnte\\": "src/"
         }
     },
     "authors": [
