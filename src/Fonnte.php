@@ -1,5 +1,5 @@
 <?php
-namespace App\Libraries;
+namespace TianRosandhy\LaravelFonnte;
 
 use Exception;
 use Http;
